@@ -6,3 +6,5 @@
 - Or if you want you can open the project on Unity
 
 in this [file](muffingame.pdf) there is a brief explanation of the work I've done, and the instructions of how to play (in italian)
+
+Lavoro fatto per il tirocinio della triennale, Università di Bologna
